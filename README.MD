@@ -1,1 +1,2 @@
-
+Video Generator is a fully built React based application. The purpose of this application is to showcase my solid foundational understanding and use of the React framework. In this application an external  API: console.developers.google.com was used to call the videos from youtube.com, along with the use of AXIOS to make XMLHttpRequests from the browser. In this fun "video generating" application you can see the dynamic interactions and powerful use of the component based technology."
+error: pathspec 'generating application you can see the dynamic interactions and powerful use of the component based technology.
